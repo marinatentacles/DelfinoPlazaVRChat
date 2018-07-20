@@ -1,0 +1,302 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl ID100
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS01.png
+
+newmtl ID105
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS16.png
+
+newmtl ID110
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS17.png
+
+newmtl ID115
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS09.png
+
+newmtl ID120
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS03.png
+
+newmtl ID125
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS52.png
+
+newmtl ID13
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS58.png
+
+newmtl ID130
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS53.png
+
+newmtl ID135
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS54.png
+
+newmtl ID140
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS06.png
+
+newmtl ID145
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS20.png
+
+newmtl ID18
+Kd 0.588235 0.588235 0.588235
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+
+newmtl ID20
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS07.png
+
+newmtl ID25
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS00.png
+
+newmtl ID3
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS56.png
+
+newmtl ID30
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS29.png
+
+newmtl ID35
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS31.png
+
+newmtl ID40
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS33.png
+
+newmtl ID45
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS35.png
+
+newmtl ID50
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS02.png
+
+newmtl ID55
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS37.png
+
+newmtl ID60
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS08.png
+
+newmtl ID65
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS04.png
+
+newmtl ID70
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS42.png
+
+newmtl ID75
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS44.png
+
+newmtl ID8
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS57.png
+
+newmtl ID80
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS45.png
+
+newmtl ID85
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS05.png
+
+newmtl ID90
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS49.png
+
+newmtl ID95
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd dolpSS50.png
+
